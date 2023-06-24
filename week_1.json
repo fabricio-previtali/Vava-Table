@@ -1,0 +1,96 @@
+[{
+  "round": 1,
+  "date": {
+    "$numberLong": "1680318000000"
+  },
+  "team_1": "SENTINELS",
+  "team_2": "100T",
+  "map_1": {
+    "name": "Fracture",
+    "team_1": 13,
+    "team_2": 11
+  },
+  "map_2": {
+    "name": "Split",
+    "team_1": 12,
+    "team_2": 14
+  },
+  "map_3": {
+    "name": "Ascent",
+    "team_1": 14,
+    "team_2": 12
+  }
+},{
+  "round": 1,
+  "date": {
+    "$numberLong": "1680318000000"
+  },
+  "team_1": "KRU",
+  "team_2": "FUR",
+  "map_1": {
+    "name": "Split",
+    "team_1": 11,
+    "team_2": 13
+  },
+  "map_2": {
+    "name": "Ascent",
+    "team_1": 5,
+    "team_2": 13
+  }
+},{
+  "round": 1,
+  "date": {
+    "$numberLong": "1680404400000"
+  },
+  "team_1": "LOUD",
+  "team_2": "MIBR",
+  "map_1": {
+    "name": "Split",
+    "team_1": 13,
+    "team_2": 5
+  },
+  "map_2": {
+    "name": "Lotus",
+    "team_1": 11,
+    "team_2": 13
+  },
+  "map_3": {
+    "name": "Haven",
+    "team_1": 13,
+    "team_2": 11
+  }
+},{
+  "round": 1,
+  "date": {
+    "$numberLong": "1680404400000"
+  },
+  "team_1": "EG",
+  "team_2": "C9",
+  "map_1": {
+    "name": "Pearl",
+    "team_1": 11,
+    "team_2": 13
+  },
+  "map_2": {
+    "name": "Fracture",
+    "team_1": 9,
+    "team_2": 13
+  }
+},{
+  "round": 1,
+  "date": {
+    "$numberLong": "1680490800000"
+  },
+  "team_1": "LEV",
+  "team_2": "NRG",
+  "map_1": {
+    "name": "Pearl",
+    "team_1": 13,
+    "team_2": 11
+  },
+  "map_2": {
+    "name": "Lotus",
+    "team_1": 13,
+    "team_2": 4
+  }
+}]
